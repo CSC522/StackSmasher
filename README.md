@@ -32,3 +32,12 @@ Le Shell Code
  
 Le Conclusion
 
+
+
+Smacking the Stash
+1. Identify the source code
+2. Identify the needed flags
+3. Identify the technical specs necessary to smash the stack
+4. Order of Operations leading to success
+5. Demonstration
+6 - 9. Profit.
